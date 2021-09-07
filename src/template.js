@@ -46,7 +46,7 @@ const generateEngineer = function engineer(engineer) {
                     <div class="collapsible-header"><i class="material-icons"></i>E-Mail:&nbsp; <span class="email">${engineer.getEmail()}</span></div>
                     </li>
                     <li>
-                    <div class="collapsible-header"><i class="material-icons"></i>Office Number:&nbsp; <span class="github">${engineer.getGitHub()}</span></div>
+                    <div class="collapsible-header"><i class="material-icons"></i>Office Number:&nbsp; <span class="github">${engineer.getNumber1()}</span></div>
                     </li>
                 </ul>
             </div>
@@ -73,7 +73,7 @@ const generateIntern = function intern(intern) {
                     <div class="collapsible-header"><i class="material-icons"></i>E-Mail:&nbsp; <span class="Email">${intern.getEmail()}</span></div>
                     </li>
                     <li>
-                    <div class="collapsible-header"><i class="material-icons"></i>Office Number:&nbsp; <span class="school">${intern.getSchool()}</span></div>
+                    <div class="collapsible-header"><i class="material-icons"></i>Office Number:&nbsp; <span class="school">${intern.getNumber2()}</span></div>
                     </li>
                 </ul>
             </div>
