@@ -27,5 +27,5 @@ inquirer for prompts and jest for testing
 n/a
 ## Questions:
 1. Please click the link for Github: <a href = "https://github.com/undefined">My Github Site</a>
-2. Please click the link for my Website: <a href = "https://drive.google.com/file/d/1DavIxJApDTwDOE-nPFZLvl5YGFczepXd/view">My Website</a>
+2. Please click the link for my Website: <a href = "https://drive.google.com/file/d/1DavIxJApDTwDOE-nPFZLvl5YGFczepXd/view">Video</a>
 3. Email: rtowens11@gmail.com 
